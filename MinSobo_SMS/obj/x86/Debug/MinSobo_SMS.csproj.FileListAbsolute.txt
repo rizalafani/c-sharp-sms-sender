@@ -1,0 +1,53 @@
+c:\users\acer\documents\visual studio 2010\Projects\MinSobo_SMS\MinSobo_SMS\bin\Debug\MinSobo_SMS.exe
+c:\users\acer\documents\visual studio 2010\Projects\MinSobo_SMS\MinSobo_SMS\bin\Debug\MinSobo_SMS.pdb
+c:\users\acer\documents\visual studio 2010\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2010\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\MinSobo_SMS.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2010\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+c:\users\acer\documents\visual studio 2010\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+c:\users\acer\documents\visual studio 2010\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\MinSobo_SMS.exe
+c:\users\acer\documents\visual studio 2010\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\MinSobo_SMS.pdb
+c:\users\acer\documents\visual studio 2010\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\VistaButtonTest.VistaButton.resources
+c:\users\acer\documents\visual studio 2010\Projects\MinSobo_SMS\MinSobo_SMS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Design.4.0.dll
+c:\users\acer\documents\visual studio 2010\Projects\MinSobo_SMS\MinSobo_SMS\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+c:\users\acer\documents\visual studio 2010\Projects\MinSobo_SMS\MinSobo_SMS\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+c:\users\acer\documents\visual studio 2010\Projects\MinSobo_SMS\MinSobo_SMS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+c:\users\acer\documents\visual studio 2010\Projects\MinSobo_SMS\MinSobo_SMS\bin\Debug\WPFToolkit.dll
+c:\users\acer\documents\visual studio 2010\Projects\MinSobo_SMS\MinSobo_SMS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Design.4.0.pdb
+c:\users\acer\documents\visual studio 2010\Projects\MinSobo_SMS\MinSobo_SMS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+c:\users\acer\documents\visual studio 2010\Projects\MinSobo_SMS\MinSobo_SMS\bin\Debug\WPFToolkit.pdb
+c:\users\acer\documents\visual studio 2010\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\MinSobo_SMS.FormKoneksi.resources
+c:\users\acer\documents\visual studio 2010\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\MinSobo_SMS.MainForm.resources
+c:\users\acer\documents\visual studio 2010\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\MinSobo_SMS.ChildForm.resources
+c:\users\acer\documents\visual studio 2010\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\MinSobo_SMS.FormSMS.resources
+c:\users\acer\documents\visual studio 2010\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\MinSobo_SMS.DaftarSiswa.resources
+c:\users\acer\documents\visual studio 2010\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\MinSobo_SMS.AddSiswa.resources
+c:\users\acer\documents\visual studio 2010\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\MinSobo_SMS.FormSMSPribadi.resources
+c:\users\acer\documents\visual studio 2010\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\MinSobo_SMS.Guru.resources
+c:\users\acer\documents\visual studio 2010\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\MinSobo_SMS.FormSMSGuru.resources
+c:\users\acer\documents\visual studio 2010\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\MinSobo_SMS.Kelas.resources
+C:\Users\MADARA UCHIHA\Documents\Visual Studio 2008\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\MinSobo_SMS.exe
+C:\Users\MADARA UCHIHA\Documents\Visual Studio 2008\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\MinSobo_SMS.pdb
+C:\Users\MADARA UCHIHA\Documents\Visual Studio 2008\Projects\MinSobo_SMS\MinSobo_SMS\bin\Debug\MinSobo_SMS.exe
+C:\Users\MADARA UCHIHA\Documents\Visual Studio 2008\Projects\MinSobo_SMS\MinSobo_SMS\bin\Debug\MinSobo_SMS.pdb
+C:\Users\MADARA UCHIHA\Documents\Visual Studio 2008\Projects\MinSobo_SMS\MinSobo_SMS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Design.4.0.dll
+C:\Users\MADARA UCHIHA\Documents\Visual Studio 2008\Projects\MinSobo_SMS\MinSobo_SMS\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\MADARA UCHIHA\Documents\Visual Studio 2008\Projects\MinSobo_SMS\MinSobo_SMS\bin\Debug\WPFToolkit.dll
+C:\Users\MADARA UCHIHA\Documents\Visual Studio 2008\Projects\MinSobo_SMS\MinSobo_SMS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\MADARA UCHIHA\Documents\Visual Studio 2008\Projects\MinSobo_SMS\MinSobo_SMS\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+C:\Users\MADARA UCHIHA\Documents\Visual Studio 2008\Projects\MinSobo_SMS\MinSobo_SMS\bin\Debug\WPFToolkit.pdb
+C:\Users\MADARA UCHIHA\Documents\Visual Studio 2008\Projects\MinSobo_SMS\MinSobo_SMS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.Design.4.0.pdb
+C:\Users\MADARA UCHIHA\Documents\Visual Studio 2008\Projects\MinSobo_SMS\MinSobo_SMS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\MADARA UCHIHA\Documents\Visual Studio 2008\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MADARA UCHIHA\Documents\Visual Studio 2008\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\MinSobo_SMS.AddSiswa.resources
+C:\Users\MADARA UCHIHA\Documents\Visual Studio 2008\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\MinSobo_SMS.ChildForm.resources
+C:\Users\MADARA UCHIHA\Documents\Visual Studio 2008\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\MinSobo_SMS.DaftarSiswa.resources
+C:\Users\MADARA UCHIHA\Documents\Visual Studio 2008\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\MinSobo_SMS.FormKoneksi.resources
+C:\Users\MADARA UCHIHA\Documents\Visual Studio 2008\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\MinSobo_SMS.FormSMS.resources
+C:\Users\MADARA UCHIHA\Documents\Visual Studio 2008\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\MinSobo_SMS.FormSMSGuru.resources
+C:\Users\MADARA UCHIHA\Documents\Visual Studio 2008\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\MinSobo_SMS.FormSMSPribadi.resources
+C:\Users\MADARA UCHIHA\Documents\Visual Studio 2008\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\MinSobo_SMS.Guru.resources
+C:\Users\MADARA UCHIHA\Documents\Visual Studio 2008\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\MinSobo_SMS.Kelas.resources
+C:\Users\MADARA UCHIHA\Documents\Visual Studio 2008\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\MinSobo_SMS.MainForm.resources
+C:\Users\MADARA UCHIHA\Documents\Visual Studio 2008\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\MinSobo_SMS.Properties.Resources.resources
+C:\Users\MADARA UCHIHA\Documents\Visual Studio 2008\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\VistaButtonTest.VistaButton.resources
+C:\Users\MADARA UCHIHA\Documents\Visual Studio 2008\Projects\MinSobo_SMS\MinSobo_SMS\obj\x86\Debug\MinSobo_SMS.csproj.GenerateResource.Cache

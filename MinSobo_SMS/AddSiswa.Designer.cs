@@ -1,0 +1,388 @@
+﻿namespace MinSobo_SMS
+{
+    partial class AddSiswa
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(AddSiswa));
+            this.label1 = new System.Windows.Forms.Label();
+            this.txt_no_induk = new System.Windows.Forms.TextBox();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.btn_delete_all = new VistaButtonTest.VistaButton();
+            this.btn_bersih = new VistaButtonTest.VistaButton();
+            this.btn_cari = new VistaButtonTest.VistaButton();
+            this.btn_hapus = new VistaButtonTest.VistaButton();
+            this.btn_ubah = new VistaButtonTest.VistaButton();
+            this.btn_simpan = new VistaButtonTest.VistaButton();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.txt_hp = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.txt_namawali = new System.Windows.Forms.TextBox();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.txt_alamat = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.txt_nama = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            this.groupBox2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.Color.Transparent;
+            this.label1.Location = new System.Drawing.Point(47, 28);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(51, 13);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "No Induk";
+            // 
+            // txt_no_induk
+            // 
+            this.txt_no_induk.Location = new System.Drawing.Point(104, 25);
+            this.txt_no_induk.Name = "txt_no_induk";
+            this.txt_no_induk.Size = new System.Drawing.Size(83, 20);
+            this.txt_no_induk.TabIndex = 1;
+            this.txt_no_induk.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txt_no_induk_KeyPress);
+            // 
+            // groupBox1
+            // 
+            this.groupBox1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
+                        | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox1.BackColor = System.Drawing.Color.Transparent;
+            this.groupBox1.Controls.Add(this.pictureBox1);
+            this.groupBox1.Controls.Add(this.btn_delete_all);
+            this.groupBox1.Controls.Add(this.btn_bersih);
+            this.groupBox1.Controls.Add(this.btn_cari);
+            this.groupBox1.Controls.Add(this.btn_hapus);
+            this.groupBox1.Controls.Add(this.btn_ubah);
+            this.groupBox1.Controls.Add(this.btn_simpan);
+            this.groupBox1.Controls.Add(this.comboBox1);
+            this.groupBox1.Controls.Add(this.txt_hp);
+            this.groupBox1.Controls.Add(this.label6);
+            this.groupBox1.Controls.Add(this.txt_namawali);
+            this.groupBox1.Controls.Add(this.label5);
+            this.groupBox1.Controls.Add(this.label4);
+            this.groupBox1.Controls.Add(this.txt_alamat);
+            this.groupBox1.Controls.Add(this.label3);
+            this.groupBox1.Controls.Add(this.txt_nama);
+            this.groupBox1.Controls.Add(this.label2);
+            this.groupBox1.Controls.Add(this.txt_no_induk);
+            this.groupBox1.Controls.Add(this.label1);
+            this.groupBox1.Location = new System.Drawing.Point(40, 23);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(708, 225);
+            this.groupBox1.TabIndex = 2;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "Olah Data";
+            // 
+            // btn_delete_all
+            // 
+            this.btn_delete_all.BackColor = System.Drawing.Color.Transparent;
+            this.btn_delete_all.BaseColor = System.Drawing.Color.Transparent;
+            this.btn_delete_all.ButtonColor = System.Drawing.Color.Yellow;
+            this.btn_delete_all.ButtonText = "Hapus Semua";
+            this.btn_delete_all.ForeColor = System.Drawing.Color.Black;
+            this.btn_delete_all.GlowColor = System.Drawing.Color.Yellow;
+            this.btn_delete_all.Location = new System.Drawing.Point(373, 183);
+            this.btn_delete_all.Name = "btn_delete_all";
+            this.btn_delete_all.Size = new System.Drawing.Size(93, 30);
+            this.btn_delete_all.TabIndex = 18;
+            this.btn_delete_all.Click += new System.EventHandler(this.vistaButton1_Click);
+            // 
+            // btn_bersih
+            // 
+            this.btn_bersih.BackColor = System.Drawing.Color.Transparent;
+            this.btn_bersih.BaseColor = System.Drawing.Color.Transparent;
+            this.btn_bersih.ButtonColor = System.Drawing.Color.Yellow;
+            this.btn_bersih.ButtonText = "Bersih";
+            this.btn_bersih.ForeColor = System.Drawing.Color.Black;
+            this.btn_bersih.GlowColor = System.Drawing.Color.Yellow;
+            this.btn_bersih.Location = new System.Drawing.Point(300, 15);
+            this.btn_bersih.Name = "btn_bersih";
+            this.btn_bersih.Size = new System.Drawing.Size(84, 30);
+            this.btn_bersih.TabIndex = 17;
+            this.btn_bersih.Click += new System.EventHandler(this.vistaButton7_Click);
+            // 
+            // btn_cari
+            // 
+            this.btn_cari.BackColor = System.Drawing.Color.Transparent;
+            this.btn_cari.BaseColor = System.Drawing.Color.Transparent;
+            this.btn_cari.ButtonColor = System.Drawing.Color.Yellow;
+            this.btn_cari.ButtonText = "Cari";
+            this.btn_cari.ForeColor = System.Drawing.Color.Black;
+            this.btn_cari.GlowColor = System.Drawing.Color.Yellow;
+            this.btn_cari.Image = ((System.Drawing.Image)(resources.GetObject("btn_cari.Image")));
+            this.btn_cari.Location = new System.Drawing.Point(193, 15);
+            this.btn_cari.Name = "btn_cari";
+            this.btn_cari.Size = new System.Drawing.Size(101, 30);
+            this.btn_cari.TabIndex = 16;
+            this.btn_cari.Click += new System.EventHandler(this.vistaButton6_Click);
+            // 
+            // btn_hapus
+            // 
+            this.btn_hapus.BackColor = System.Drawing.Color.Transparent;
+            this.btn_hapus.BaseColor = System.Drawing.Color.Transparent;
+            this.btn_hapus.ButtonColor = System.Drawing.Color.Yellow;
+            this.btn_hapus.ButtonText = "Hapus";
+            this.btn_hapus.ForeColor = System.Drawing.Color.Black;
+            this.btn_hapus.GlowColor = System.Drawing.Color.Yellow;
+            this.btn_hapus.Location = new System.Drawing.Point(283, 183);
+            this.btn_hapus.Name = "btn_hapus";
+            this.btn_hapus.Size = new System.Drawing.Size(84, 30);
+            this.btn_hapus.TabIndex = 15;
+            this.btn_hapus.Click += new System.EventHandler(this.btn_hapus_Click);
+            // 
+            // btn_ubah
+            // 
+            this.btn_ubah.BackColor = System.Drawing.Color.Transparent;
+            this.btn_ubah.BaseColor = System.Drawing.Color.Transparent;
+            this.btn_ubah.ButtonColor = System.Drawing.Color.Yellow;
+            this.btn_ubah.ButtonText = "Ubah";
+            this.btn_ubah.ForeColor = System.Drawing.Color.Black;
+            this.btn_ubah.GlowColor = System.Drawing.Color.Yellow;
+            this.btn_ubah.Location = new System.Drawing.Point(193, 183);
+            this.btn_ubah.Name = "btn_ubah";
+            this.btn_ubah.Size = new System.Drawing.Size(84, 30);
+            this.btn_ubah.TabIndex = 14;
+            this.btn_ubah.Click += new System.EventHandler(this.btn_ubah_Click);
+            // 
+            // btn_simpan
+            // 
+            this.btn_simpan.BackColor = System.Drawing.Color.Transparent;
+            this.btn_simpan.BaseColor = System.Drawing.Color.Transparent;
+            this.btn_simpan.ButtonColor = System.Drawing.Color.Yellow;
+            this.btn_simpan.ButtonText = "Simpan";
+            this.btn_simpan.ForeColor = System.Drawing.Color.Black;
+            this.btn_simpan.GlowColor = System.Drawing.Color.Yellow;
+            this.btn_simpan.Location = new System.Drawing.Point(104, 183);
+            this.btn_simpan.Name = "btn_simpan";
+            this.btn_simpan.Size = new System.Drawing.Size(83, 30);
+            this.btn_simpan.TabIndex = 13;
+            this.btn_simpan.Click += new System.EventHandler(this.vistaButton2_Click);
+            // 
+            // comboBox1
+            // 
+            this.comboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Location = new System.Drawing.Point(104, 103);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(83, 21);
+            this.comboBox1.TabIndex = 12;
+            // 
+            // txt_hp
+            // 
+            this.txt_hp.Location = new System.Drawing.Point(104, 155);
+            this.txt_hp.Name = "txt_hp";
+            this.txt_hp.Size = new System.Drawing.Size(173, 20);
+            this.txt_hp.TabIndex = 11;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.BackColor = System.Drawing.Color.Transparent;
+            this.label6.Location = new System.Drawing.Point(16, 158);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(83, 13);
+            this.label6.TabIndex = 10;
+            this.label6.Text = "Nomer HP (+62)";
+            // 
+            // txt_namawali
+            // 
+            this.txt_namawali.Location = new System.Drawing.Point(104, 129);
+            this.txt_namawali.Name = "txt_namawali";
+            this.txt_namawali.Size = new System.Drawing.Size(291, 20);
+            this.txt_namawali.TabIndex = 9;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.BackColor = System.Drawing.Color.Transparent;
+            this.label5.Location = new System.Drawing.Point(39, 132);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(59, 13);
+            this.label5.TabIndex = 8;
+            this.label5.Text = "Nama Wali";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.BackColor = System.Drawing.Color.Transparent;
+            this.label4.Location = new System.Drawing.Point(65, 106);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(33, 13);
+            this.label4.TabIndex = 6;
+            this.label4.Text = "Kelas";
+            // 
+            // txt_alamat
+            // 
+            this.txt_alamat.Location = new System.Drawing.Point(104, 77);
+            this.txt_alamat.Name = "txt_alamat";
+            this.txt_alamat.Size = new System.Drawing.Size(173, 20);
+            this.txt_alamat.TabIndex = 5;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.BackColor = System.Drawing.Color.Transparent;
+            this.label3.Location = new System.Drawing.Point(59, 80);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(39, 13);
+            this.label3.TabIndex = 4;
+            this.label3.Text = "Alamat";
+            // 
+            // txt_nama
+            // 
+            this.txt_nama.Location = new System.Drawing.Point(104, 51);
+            this.txt_nama.Name = "txt_nama";
+            this.txt_nama.Size = new System.Drawing.Size(291, 20);
+            this.txt_nama.TabIndex = 3;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.BackColor = System.Drawing.Color.Transparent;
+            this.label2.Location = new System.Drawing.Point(32, 54);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(66, 13);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "Nama Siswa";
+            // 
+            // dataGridView1
+            // 
+            this.dataGridView1.AllowUserToAddRows = false;
+            this.dataGridView1.AllowUserToDeleteRows = false;
+            this.dataGridView1.AllowUserToResizeColumns = false;
+            this.dataGridView1.AllowUserToResizeRows = false;
+            this.dataGridView1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+                        | System.Windows.Forms.AnchorStyles.Left)
+                        | System.Windows.Forms.AnchorStyles.Right)));
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Location = new System.Drawing.Point(40, 319);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.ReadOnly = true;
+            this.dataGridView1.Size = new System.Drawing.Size(708, 165);
+            this.dataGridView1.TabIndex = 3;
+            // 
+            // groupBox2
+            // 
+            this.groupBox2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
+                        | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox2.Controls.Add(this.textBox1);
+            this.groupBox2.Controls.Add(this.label7);
+            this.groupBox2.Location = new System.Drawing.Point(40, 254);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Size = new System.Drawing.Size(708, 59);
+            this.groupBox2.TabIndex = 4;
+            this.groupBox2.TabStop = false;
+            this.groupBox2.Text = "Cari Cepat";
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(107, 24);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(288, 20);
+            this.textBox1.TabIndex = 1;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(63, 27);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(35, 13);
+            this.label7.TabIndex = 0;
+            this.label7.Text = "Nama";
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(648, 15);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(54, 50);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox1.TabIndex = 19;
+            this.pictureBox1.TabStop = false;
+            // 
+            // AddSiswa
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(788, 514);
+            this.Controls.Add(this.groupBox2);
+            this.Controls.Add(this.dataGridView1);
+            this.Controls.Add(this.groupBox1);
+            this.Name = "AddSiswa";
+            this.Text = "AddSiswa";
+            this.Load += new System.EventHandler(this.AddSiswa_Load);
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            this.groupBox2.ResumeLayout(false);
+            this.groupBox2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox txt_no_induk;
+        public System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.TextBox txt_hp;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.TextBox txt_namawali;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.TextBox txt_alamat;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.TextBox txt_nama;
+        private System.Windows.Forms.Label label2;
+        private VistaButtonTest.VistaButton btn_simpan;
+        private System.Windows.Forms.DataGridView dataGridView1;
+        private VistaButtonTest.VistaButton btn_cari;
+        private VistaButtonTest.VistaButton btn_hapus;
+        private VistaButtonTest.VistaButton btn_ubah;
+        private VistaButtonTest.VistaButton btn_bersih;
+        private System.Windows.Forms.GroupBox groupBox2;
+        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.Label label7;
+        private VistaButtonTest.VistaButton btn_delete_all;
+        private System.Windows.Forms.PictureBox pictureBox1;
+    }
+}
